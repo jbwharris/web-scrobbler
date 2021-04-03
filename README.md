@@ -42,7 +42,7 @@ For those who prefer Firefox, the extension is available on [Addons.mozilla.org]
 
 ### Microsoft Edge Add-ons
 
-The extension is also avaiable on the [Microsoft Edge Add-ons][Edge].
+The extension is also available on the [Microsoft Edge Add-ons][Edge].
 
 ### Install from source code
 
