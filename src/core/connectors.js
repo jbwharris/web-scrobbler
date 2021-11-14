@@ -1858,6 +1858,13 @@ const connectors = [{
 	],
 	js: 'connectors/rockandpop.cl.js',
 	id: 'rockandpopcl',
+}, {
+	label: 'Indie 102.3',
+	matches: [
+		'*://www.cpr.org/indie/*',
+	],
+	js: 'connectors/indie-1023.js',
+	id: 'indie-102.3',
 }];
 
 define(() => connectors);
