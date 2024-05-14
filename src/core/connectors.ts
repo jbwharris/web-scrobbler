@@ -2432,6 +2432,12 @@ export default <ConnectorMeta[]>[
 		id: 'bollerwagen',
 	},
 	{
+		label: 'МТС Музыка',
+		matches: ['*://music.mts.ru/*'],
+		js: 'mts-music.js',
+		id: 'mts-music',
+	},
+	{
 		label: 'ChirpRadio',
 		matches: ['*://chirpradio.org/*'],
 		js: 'chirpradio.js',
